@@ -22,7 +22,7 @@
 
 | Year | Title                                                        |
 | ---- | ------------------------------------------------------------ |
-| 2012 | [Consensus clustering based on constrained self-organizing map and improved Cop-Kmeans ensemble in intelligent decision support systems](Consensus clustering based on constrained self-organizing map and improved Cop-Kmeans ensemble in intelligent decision support systems) |
+| 2012 | [Consensus clustering based on constrained self-organizing map and improved Cop-Kmeans ensemble in intelligent decision support systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705111001900) |
 | 2002 | [Semi-supervised clustering by seeding](https://cir.nii.ac.jp/crid/1574231875130932864) |
 | 2005 | [Clustering With Constraints: Feasibility Issues and the *k*-Means Algorithm](https://epubs.siam.org/doi/abs/10.1137/1.9781611972757.13) |
 | 2001 | [ [Constrained k-means clustering with background knowledge](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf)](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf) |
